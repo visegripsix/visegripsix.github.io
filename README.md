@@ -1,2 +1,2 @@
 # visegripsix.github.io
-Branded portfolio of site of Will Brook
+Branded portfolio of site of Will Brook.
